@@ -1,0 +1,66 @@
+{
+    "info": "Testimonials",
+    "testimonials": [
+        {
+            "id": 1,
+            "img": "https://firebasestorage.googleapis.com/v0/b/detectives-return.appspot.com/o/Gemini_Generated_Image%20(14).jpg?alt=media&token=1592bb4c-cdd7-4ac1-b530-1e5417188ea0",
+            "name": "Kellan Shadow",
+            "desc": "As detectives navigate the seas of The Unfinished Business, thoughts are the compass that steers the ship through uncharted waters. Sail through the waves of speculation, for each thought is a gust of wind propelling us toward the shores of resolution."
+        
+        },
+        {
+            "id": 2,
+            "img": "https://firebasestorage.googleapis.com/v0/b/detectives-return.appspot.com/o/Gemini_Generated_Image%20(1).jpg?alt=media&token=5366c203-72d7-424b-a216-6a3fd285f142",
+            "name": "Maverick Vortex",
+            "desc": "As detectives navigate the seas of The Unfinished Business, thoughts are the compass that steers the ship through uncharted waters. Sail through the waves of speculation, for each thought is a gust of wind propelling us toward the shores of resolution."
+        
+        },        {
+            "id": 3,
+            "img": "https://firebasestorage.googleapis.com/v0/b/detectives-return.appspot.com/o/Brown%20modern%20history%20book%20cover.jpg?alt=media&token=ebdde61b-588e-4bf4-8477-2352b69691cd",
+            "name": "The Unfinished Business is a grand masquerade ball, with masked thoughts concealing the true identity of the conclusion. Peel away the layers of conjecture, for behind every masked thought lies the face of the resolution, ready to reveal itself on the dance floor of investigation.",
+            "desc": "Atlas Frost"
+        
+        },        {
+            "id": 4,
+            "img": "https://firebasestorage.googleapis.com/v0/b/detectives-return.appspot.com/o/Gemini_Generated_Image%20(6).jpg?alt=media&token=ff63c08b-15c5-4f6d-8b62-54656c6b5153",
+            "name": "Rylan Hunter",
+            "desc": "In the realm of shadows and secrets, every clue is a beacon. Uncover the whispers of mystery, for in each puzzle lies the path to revelation. The true detective's journey is not in the destination but in the pursuit of the unknown"
+        
+        },      
+      {
+            "id": 5,
+            "img": "https://firebasestorage.googleapis.com/v0/b/detectives-return.appspot.com/o/Gemini_Generated_Image%20(4).jpg?alt=media&token=e2c9d4c6-7195-41ba-932b-cf394cd19797",
+            "name": "Ezekiel Steele",
+            "desc": "As detectives, our thoughts are the constellations guiding us through the celestial expanse of mysteries. Connect the dots of perception, and let your thoughts be the compass that leads you to the constellation of truth in the cosmic drama of investigation."
+        
+        },
+        {
+            "id": 6,
+            "img": "https://firebasestorage.googleapis.com/v0/b/detectives-return.appspot.com/o/Gemini_Generated_Image%20(3).jpg?alt=media&token=453c7552-8320-427d-9e50-de83d5b0f111",
+            "name": "Ajax Blaze",
+            "desc": "The Unfinished Business echoes with the resonance of untold stories and lingering enigmas. In the detective's realm, thoughts become the ink that inscribes the final chapter, closing the book on mysteries left incomplete. Let every thought be a quill, penning the conclusion to the unfinished narrative."
+        
+        },
+        {
+            "id": 7,
+            "img": "https://firebasestorage.googleapis.com/v0/b/detectives-return.appspot.com/o/Gemini_Generated_Image%20(8).jpg?alt=media&token=fabcca5f-223a-4916-bd7a-b370944b8291",
+            "name": "Veronica Steele",
+            "desc": "As detectives, our minds are the keys to unlocking the enigmas that surround us. Dive deep into the labyrinth of thoughts, where every deduction is a step closer to illumination. Let curiosity guide and intuition unveil the concealed truths."
+        
+        },
+        {
+            "id": 8,
+            "img": "https://firebasestorage.googleapis.com/v0/b/detectives-return.appspot.com/o/Gemini_Generated_Image%20(1).jpg?alt=media&token=5366c203-72d7-424b-a216-6a3fd285f142",
+            "name": "Maverick Vortex",
+            "desc": "As detectives navigate the seas of The Unfinished Business, thoughts are the compass that steers the ship through uncharted waters. Sail through the waves of speculation, for each thought is a gust of wind propelling us toward the shores of resolution."
+        
+        },
+        {
+            "id": 9,
+            "img": "https://firebasestorage.googleapis.com/v0/b/detectives-return.appspot.com/o/Gemini_Generated_Image.jpg?alt=media&token=d8b0fc92-9adc-4141-a9bf-e4499c993994",
+            "name": " Atlas Frost",
+            "desc": "The Unfinished Business is a grand masquerade ball, with masked thoughts concealing the true identity of the conclusion. Peel away the layers of conjecture, for behind every masked thought lies the face of the resolution, ready to reveal itself on the dance floor of investigation."
+        
+        }
+    ]
+}

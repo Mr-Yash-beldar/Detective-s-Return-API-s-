@@ -1,0 +1,68 @@
+{
+    "info": "Top Detectives",
+    "detectives": [
+        {
+            "id": 1,
+            "name": "Michael Williams",
+            "specialty": "Espionage",
+            "experience": "5 years",
+            "img": "https://firebasestorage.googleapis.com/v0/b/detectives-return.appspot.com/o/Gemini_Generated_Image.jpg?alt=media&token=d8b0fc92-9adc-4141-a9bf-e4499c993994"
+        },
+        {
+            "id": 2,
+            "name": "Emily Taylor",
+            "specialty": "Financial Fraud",
+            "experience": "6 years",
+            "img": "https://firebasestorage.googleapis.com/v0/b/detectives-return.appspot.com/o/Gemini_Generated_Image%20(1).jpg?alt=media&token=5366c203-72d7-424b-a216-6a3fd285f142"
+        },
+        {
+            "id": 3,
+            "name": "Robert Anderson",
+            "specialty": "Homicide Investigations",
+            "experience": "12 years",
+            "img": "https://firebasestorage.googleapis.com/v0/b/detectives-return.appspot.com/o/Gemini_Generated_Image%20(3).jpg?alt=media&token=453c7552-8320-427d-9e50-de83d5b0f111"
+        },
+        {
+            "id": 4,
+            "name": "Olivia Davis",
+            "specialty": "Counterterrorism",
+            "experience": "9 years",
+            "img": "https://firebasestorage.googleapis.com/v0/b/detectives-return.appspot.com/o/Gemini_Generated_Image%20(4).jpg?alt=media&token=e2c9d4c6-7195-41ba-932b-cf394cd19797"
+        },
+        {
+            "id": 5,
+            "name": "Ethan White",
+            "specialty": "Missing Persons",
+            "experience": "7 years",
+            "img": "https://firebasestorage.googleapis.com/v0/b/detectives-return.appspot.com/o/Gemini_Generated_Image%20(6).jpg?alt=media&token=ff63c08b-15c5-4f6d-8b62-54656c6b5153"
+        },
+        {
+            "id": 6,
+            "name": "Liam Brown",
+            "specialty": "Cold Case Resolutions",
+            "experience": "8 years",
+            "img": "https://firebasestorage.googleapis.com/v0/b/detectives-return.appspot.com/o/Gemini_Generated_Image%20(2).jpg?alt=media&token=bd664440-a5c4-4460-b1cf-91fb0540918f"
+        },
+        {
+            "id": 7,
+            "name": "Bobby Johnson",
+            "specialty": "Cyber Crime",
+            "experience": "5 years",
+            "img": "https://firebasestorage.googleapis.com/v0/b/detectives-return.appspot.com/o/Gemini_Generated_Image%20(5).jpg?alt=media&token=43fcc0dd-d269-4c8e-81d5-19b5ca6439bf"
+        },
+        {
+            "id": 8,
+            "name": "Hunder Derector",
+            "specialty": "Cyber Crime",
+            "experience": "5 years",
+            "img": "https://firebasestorage.googleapis.com/v0/b/detectives-return.appspot.com/o/Gemini_Generated_Image%20(7).jpg?alt=media&token=6db96a87-15b2-4c1d-af0d-3620051b1da5"
+        },
+        {
+            "id": 9,
+            "name": "Undertaker yuth",
+            "specialty": "Cyber Crime",
+            "experience": "5 years",
+            "img": "https://firebasestorage.googleapis.com/v0/b/detectives-return.appspot.com/o/Gemini_Generated_Image%20(8).jpg?alt=media&token=fabcca5f-223a-4916-bd7a-b370944b8291"
+        }
+    ]
+}
